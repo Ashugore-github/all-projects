@@ -1,5 +1,0 @@
-'newfile created now' 
-<<<<<<< HEAD
-"change file data.." 
->>>>>>> 4307c0caa7ae0f2b4a03ed143918400a308d7100
-new line added now
